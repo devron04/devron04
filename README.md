@@ -169,7 +169,7 @@ HuggingFace • LangChain • LangGraph • YOLOv8 • OpenAI API • Gemini API
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://linkedin.com/in/ronakk0412">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
